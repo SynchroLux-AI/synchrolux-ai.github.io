@@ -1,6 +1,6 @@
-<h1 align="center"> Greetings! </h1> <h3 align="center"> Your AI Partner. 🧙‍♂️ 🚀</h3>  
+<h1 align="center"> Greetings! </h1> <h3 align="center"> Your AI Partner. </h3>  
 
-<p align="center"> Welcome to SynchroLux-AI Sphere! 🌳🌌</p>
+<p align="center"> Welcome to SynchroLux-AI Sphere! </p>
 
 
 
