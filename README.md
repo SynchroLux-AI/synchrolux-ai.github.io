@@ -60,41 +60,4 @@ Hello, fellow travelers of the digital realm! I am Hari, a passionate Data Scien
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-----------
-
-<!--h2 align="center">🌌 Data Science Sorcery</h2>  <p align="center">In my quest for knowledge, I have mastered a myriad of magical arts:</p>
-
--   🧪 **Alchemy of Data**: Unraveling patterns and discovering hidden truths through Exploratory Data Analysis (EDA).
--   🧙‍♂️ **Machine Learning Enchantments**: Crafting captivating ML models that predict the future and forge impactful solutions.
--   🔍 **Divination of Features**: Channeling the energies of feature engineering and selection for enhanced model performance.
--   📈 **Mystical Predictive Modeling**: Harnessing the forces of regression, classification, and clustering to forecast and classify with precision.
--   🌐 **Language of Machines**: Conversing with machines through the arcane arts of Natural Language Processing (NLP).
--   📷 **Sight Beyond Sight**: Gaining visions beyond the realm of mortals through Computer Vision and Image Recognition.
--   ⏰ **Unveiling the Passage of Time**: Decoding the enigmatic realm of Time Series Analysis.
--   🧮 **Neural Networks & Deep Learning**: Delving into the depths of neural networks to unlock the true potential of AI.
--   📡 **Unleashing the Power of Big Data**: Taming colossal data sets with dexterous proficiency.
-
-
------
-
-
-<h2 align="center">📈 GitHub Stats</h2-->  
-
-| <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact&hide_border=true" alt="Top Languages" /> | <img src="https://github-readme-stats.vercel.app/api?username=veeralakrishna&show_icons=true&hide_border=true" alt="GitHub Stats" /> |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veeralakrishna&theme=tokyonight" alt="mystreak"/>
-
----------
-
-
-|                                                                 **_Stackoverflow_**                                                                |                                                         **_Kaggle_**                                                         |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
-| [![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile) | <img src="./kaggle-badges/CompetitionsRank/flat-square-black.svg" /><br><img src="./kaggle-plates/Competitions/white.svg" width="170"/> |
-
-
-
-
-<h2 align="center">🔮 Connect & Join the Journey</h2>  <p align="center"> <a href="https://twitter.com/veeralakrishna" target="_blank"><img src="https://img.shields.io/twitter/follow/veeralakrishna?style=social" alt="Twitter" /></a> <a href="https://www.linkedin.com/in/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://kaggle.com/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a href="https://www.datacamp.com/profile/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/datacamp-%230077B5.svg?&style=for-the-badge&logo=datacamp&logoColor=white" alt="Datacamp" /></a> <a href="mailto:veeralakrishna@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> </p-->
-
-<!--i><p align="center">Let's embark on a grand adventure through the mystical realm of Data Science! 🌍🔍📊📈🤖</p></i-->
+ 
