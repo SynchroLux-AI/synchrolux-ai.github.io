@@ -10,7 +10,7 @@ I am passionate Data Scientist. </p>
 
 ----------
 
-<h2 align="center">🛠️ Magical Toolbox</h2>  
+<h2 align="center">🛠️ Powerful Toolbox</h2>  
 
 
 <p align="center">
