@@ -2,9 +2,7 @@
 
 <p align="center"> Welcome to SynchroLux-AI Sphere! </p>
 
-<!--div style="image-align: center;"-->
-  <!--img src="under_construction.png" style="transform: scale(0.5);" alt="Under Construction"-->
-  <p align="center"><img src="under_construction.png" style="display: block; margin: 0 auto;" alt="My Image"></p>
+<p align="center"><img src="under_construction.png" style="display: block; margin: 0 auto;" alt="My Image"></p>
 <!--h2 align="center">👨‍💻 About Me</h2><p align="center"> 
 I am passionate Data Scientist. </p>  
 <p align="center">From brewing complex machine learning potions to casting data-driven spells for predictive modeling, I embark on thrilling adventures through the vast landscapes of the Data Kingdom.</p-->
